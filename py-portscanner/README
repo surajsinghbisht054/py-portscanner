@@ -1,0 +1,36 @@
+
+######################################################
+			By S.S.B Group						
+######################################################
+
+	Suraj Singh
+	Admin
+	S.S.B Group
+	surajsinghbisht054@gmail.com
+	https://hackworldwithssb.blogspot.in
+
+	Note: We Feel Proud To Be Indian
+######################################################
+
+Usage: pyportscanner.py [options] 
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -p PORT, --port=PORT  Specify Target Ports    Seperated by commas or Provide
+                        Range of Ports.
+  -H HOST, --Host=HOST   Specify Target Host
+
+
+example 1:
+	python pyportscanner.py -p 80-100 -H www.site.in
+
+example 2:
+	python pyportscanner.py -p 80,81,82,83,84 -H www.site.in
+
+example 3:
+	python pyportscanner.py -p 80 -H 127.0.0.1
+
+Thanks For Using My Tools:
+Feel Free For Contributions
+surajsinghbisht054@gmail.com
