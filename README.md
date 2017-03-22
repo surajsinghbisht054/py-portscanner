@@ -17,16 +17,15 @@ __author__='''
     Note: We Feel Proud To Be Indian
 ######################################################
 '''
-print __author__
 
-	High-Speed Tcp Port Scanner written in python
+	- High-Speed Tcp Port Scanner written in python
 
-Featues:
-	High Speed Port scanning Through Threadings.
-	Stable Version with Some Extra Features
-	Multithreading Used for high performance
-	This port scanner has the capability to take host names as well as domain names
-	This scanner will provide the service name with the port number
+# Featues:
+	- High Speed Port scanning Through Threadings.
+	- Stable Version with Some Extra Features
+	- Multithreading Used for high performance
+	- This port scanner has the capability to take host names as well as domain names
+	- This scanner will provide the service name with the port number
 
 For More Informations About The Tool.. Read README Txt file
 

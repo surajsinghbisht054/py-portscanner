@@ -20,7 +20,7 @@ __author__='''
 '''
 print __author__
 	High-Speed Tcp Port Scanner written in python
-
+```
 Usage: pyportscanner.py [options] 
 
 Options:
@@ -36,7 +36,7 @@ Options:
                         Specify Path For Saving Output in Txt.
   -T TIMEOUT, --timeout=TIMEOUT
                         Specify Port Time Out Seconds
-
+```
 example 1:
     python pyportscanner.py -t www.site.in -p 0-22,24,80 
 
