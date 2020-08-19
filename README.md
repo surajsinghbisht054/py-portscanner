@@ -1,24 +1,12 @@
-# py-portscanner
-
-# This Script Is Created For http://bitforestinfo.blogspot.in
-# This Script is Written By
-__author__='''
-
-######################################################
-                By S.S.B Group                          
-######################################################
-
+```
     Suraj Singh
     Admin
     S.S.B Group
     surajsinghbisht054@gmail.com
     http://bitforestinfo.blogspot.in/
+```
 
-    Note: We Feel Proud To Be Indian
-######################################################
-'''
-
-	- High-Speed Tcp Port Scanner written in python
+### High-Speed Tcp Port Scanner written in python
 
 # Featues:
 	- High Speed Port scanning Through Threadings.
